@@ -1,4 +1,4 @@
-### Hi there, I'm [Ravinder Sharma] 👋
+### Hi there, I'm Ravinder Sharma 👋
 
 #### 🌱 I’m currently learning:
 
@@ -6,9 +6,9 @@
 
 #### 💻 Technologies I'm proficient in:
 
-- [Python]
-- [JavaScript]
-- [React JS]
+- Python
+- JavaScript
+- React JS
 
 #### 📫 How to reach me:
 
