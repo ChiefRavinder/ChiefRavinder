@@ -13,7 +13,7 @@
 #### 📫 How to reach me:
 
 - [Email](mailto:ravindersh@iitbhilai.ac.in)
-- [LinkedIn](https://www.linkedin.com/in/ravinderiitbh/)
+- [LinkedIn](https://www.linkedin.com/in/ravinder-iitbh/)
 
 
 #### 🌟 My GitHub Stats:
