@@ -1,4 +1,4 @@
-### Hi there, I'm Ravinder Sharma 👋
+<h1 align="center"> Hi there, I'm Ravinder Sharma 👋</h1>
 
 #### 🌱 I’m currently learning:
 
