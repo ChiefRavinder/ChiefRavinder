@@ -1,3 +1,4 @@
+![Header](https://github.com/ChiefRavinder/ChiefRavinder/blob/main/Assets/github-header-image.png)
 <h1 align="center"> Hi there, I'm Ravinder Sharma 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
