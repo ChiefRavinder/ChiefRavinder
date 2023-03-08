@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Ravinder Sharma 👋</h1>
-
-#### 🌱 I’m currently learning:
+<img align="right" alt="Coding" width="300" src="https://github.com/ChiefRavinder/ChiefRavinder/blob/main/Assets/git.gif">
+🌱 I’m currently learning:
 
 - Node.js
 
