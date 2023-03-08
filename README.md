@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Ravinder Sharma 👋</h1>
-<img align="right" alt="Coding" width="300" src="https://github.com/ChiefRavinder/ChiefRavinder/blob/main/Assets/git.gif">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 🌱 I’m currently learning:
 
 - Node.js
@@ -9,6 +9,13 @@
 - Python
 - JavaScript
 - React JS
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ravinder-iitbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+</p>
 
 #### 📫 How to reach me:
 
