@@ -5,7 +5,7 @@
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left">
   <ul>
-    <li> Node.js </li>
+    <li> Next.js </li>
   </ul>
 </p>
 
