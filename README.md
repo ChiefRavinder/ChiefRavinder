@@ -17,6 +17,7 @@
     <li> Python </li>
     <li> Javascript </li>
     <li> React JS </li>
+    <li> Next JS </li>
   </ul>
 </p>
 
