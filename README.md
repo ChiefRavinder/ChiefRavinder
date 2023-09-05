@@ -5,7 +5,8 @@
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left">
   <ul>
-    <li> Next.js </li>
+    <li> Big Data Handling </li>
+    <li> Data Structures and Algorithms </li>
   </ul>
 </p>
 
